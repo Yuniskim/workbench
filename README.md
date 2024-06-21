@@ -10,3 +10,7 @@ The average age of users is 40.9860
 325 lives in urban areas 
 340 lives in rural areas 
 335 are sub urban.
+
+
+
+google docs link https://docs.google.com/document/d/1oDcLx2RBBxqrBR6awvwqLURhvUq61vp7ApSp-Ge6qKA/edit?usp=sharing
